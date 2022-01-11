@@ -1,0 +1,25 @@
+{
+  "name": "karst",
+  "version": "1.0.0",
+  "description": "karst is a bundless and fastly",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karstjs/karst.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karstjs/karst/issues"
+  },
+  "engines": {
+    "node": ">=14",
+    "pnpm": ">=6"
+  },
+  "homepage": "https://github.com/karstjs/karst#readme"
+}
